@@ -42,9 +42,6 @@ ${data.contribute}
 
 # Test
 
-To test aplication, do the following:
-
-
 ${data.test}
 
 
