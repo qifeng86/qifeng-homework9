@@ -19,7 +19,7 @@ You can quickly and easily create a README file by using a command-line applicat
 
 # Installation
 
-To install dependencies, run the following:
+Install the following dependencies:
 
 
 npm inquirer
