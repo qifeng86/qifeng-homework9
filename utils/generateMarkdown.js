@@ -22,7 +22,7 @@ ${data.description}
 
 # Installation
 
-To install dependencies, run the following:
+Install the following dependencies:
 
 
 ${data.installation}
