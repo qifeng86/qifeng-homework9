@@ -71,7 +71,7 @@ inquirer
         } else if (data.license === "BSD 3-Clause") {
             data.license = bsd;
         } else {
-            data.license = "No License!"
+            data.license = ""
         }
         //create readme file with answers from above questions using markdown format
         fs.writeFile(filename, generateMarkdown(data), (err) =>
