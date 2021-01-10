@@ -68,7 +68,7 @@ inquirer
             data.license = apache;
         } else if (data.license === "MIT") {
             data.license = mit;
-        } else if (data.license === "bsd") {
+        } else if (data.license === "BSD 3-Clause") {
             data.license = bsd;
         } else {
             data.license = "No License!"
