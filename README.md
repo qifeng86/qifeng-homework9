@@ -39,8 +39,6 @@ Qi Feng
 
 # Test
 
-To test aplication, do the following:
-
 
 Answer each question and verify your answers in auto generated readme file
 
